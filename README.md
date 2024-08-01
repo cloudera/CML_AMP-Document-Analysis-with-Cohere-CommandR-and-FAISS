@@ -1,4 +1,4 @@
-# Cohere for PDF Document Analysis
+# Document Analysis with Cohere CommandR and FAISS
 
 **Leverage Cohere's Command R model and FAISS Efficient Similarity Search for PDF Document Analysis**
 
