@@ -1,6 +1,6 @@
-name: Cohere for PDF Document Analysis
+name: Document Analysis with Cohere CommandR and FAISS
 description: |
-  Leverage Cohere for PDF analysis and knowledge base creation.
+  Leverage Cohere's Command R model for PDF document analysis and knowledge base creation with FAISS vector store.
 
 author: Cloudera Inc.
 specification_version: 1.0
