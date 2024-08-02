@@ -109,4 +109,9 @@ FAISS (Facebook AI Similarity Search) is an open-source library developed by Fac
 ## LangChain for Simplicity
 LangChain is a powerful framework designed to simplify the development of applications powered by large language models (LLMs). It focuses on enabling seamless interaction with various language models, providing tools and abstractions for tasks such as prompt management, LLM chaining, data integration, and agent creation. LangChain allows developers to create complex applications by connecting multiple language model calls in a cohesive workflow, supporting both text-based and API-driven integrations. Its modular architecture supports various use cases, including conversational agents, data analysis, and automated content generation. LangChain is particularly valued for its flexibility and ease of use, making it an essential tool for developers looking to harness the full potential of LLMs in their applications.
 
+## The Fine Print
+IMPORTANT: Please read the following before proceeding. This AMP includes or otherwise depends on certain third party software packages. Information about such third party software packages are made available in the notice file associated with this AMP. By configuring and launching this AMP, you will cause such third party software packages to be downloaded and installed into your environment, in some instances, from third parties' websites. For each third party software package, please see the notice file and the applicable websites for more information, including the applicable license terms.
+
+If you do not wish to download and install the third party software packages, do not configure, launch or otherwise use this AMP. By configuring, launching or otherwise using the AMP, you acknowledge the foregoing statement and agree that Cloudera is not responsible or liable in any way for the third party software packages.
+
 Copyright (c) 2024 - Cloudera, Inc.
